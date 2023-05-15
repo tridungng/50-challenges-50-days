@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/vcs.xml
+/modules.xml
+/prettier.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+/.idea/
+/codeStyles/codeStyleConfig.xml
+/git_toolbox_prj.xml
+/50-projects.iml
+/sonarlint/**
